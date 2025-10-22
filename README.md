@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1saugen
-- 👀 I’m interested in programming especially react
-- 🌱 I’m currently learning react
+- 👀 I’m interested in exploring new technologies
+- 🌱 I’m currently learning data analysis
 - 💞️ I’m looking forward for the guidance
 - 📫 you can ping me on csaugen13@gmail.com
 
