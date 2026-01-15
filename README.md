@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @1saugen
-- 👀 I’m interested in exploring new technologies
-- 🌱 I’m currently learning data analysis
-- 💞️ I’m looking forward for the guidance
-- 📫 you can ping me on csaugen13@gmail.com
+# 💫 About Me:
+👋 About Me<br><br>Impact-driven technologist specializing in data analytics, automation, and process improvement. I translate complex data into actionable insights and build efficient, scalable solutions using Python and SQL. GitHub is where I document hands-on projects, experimentation, and continuous learning with a strong delivery mindset.<br><br>🎯 Professional Summary<br><br>Data-focused problem solver with experience across analytics, automation, and project coordination<br><br>Strong grounding in Agile delivery (Kanban & Scrum) with measurable efficiency gains<br><br>Comfortable working across technical and business contexts to deliver outcomes<br><br>🛠️ Core Skills<br><br>Programming & Querying<br>Python, SQL, JavaScript, C, C#, C++<br><br>Databases<br>PostgreSQL, MySQL, SQL Server, MongoDB, Oracle<br><br>Analytics & Visualization<br>Pandas, NumPy, Matplotlib, Power BI, Excel, Jupyter Notebook<br><br>Project & Delivery<br>Agile (Scrum/Kanban), WIP Limits, Jira, Confluence, Git/GitHub<br><br>Other<br>APIs, Data Cleaning, Automation Scripts, Workflow Design<br><br>🚀 Featured Projects<br>🔹 Job Market & Technology Analytics<br><br>What: Automated collection and analysis of job postings by location and technology using APIs.<br>Impact: Produced Excel-ready reports and visuals to support labor market insights.<br>Stack: Python, APIs, Pandas, Excel Automation, Matplotlib<br><br>🔹 Data Visualization & Storytelling<br><br>What: Built clear, executive-ready visuals (waffle charts, word clouds) to surface trends and patterns.<br>Impact: Improved interpretability of categorical and text-heavy datasets.<br>Stack: Python, Matplotlib, WordCloud<br><br>🔹 Agile–Kanban Integration (Case Study)<br><br>What: Designed an integrated Scrum–Kanban workflow.<br>Impact: Improved visibility, reduced bottlenecks, and increased team throughput with positive morale feedback.<br>Focus: WIP limits, visual boards, cadence reviews<br><br>🔹 Team Collaboration & Resource Management Plan<br><br>What: End-to-end collaboration and resource utilization framework.<br>Impact: Clear communication protocols, conflict resolution mechanisms, and performance monitoring.<br>Focus: Resource tracking, feedback loops, skills mapping<br><br>📈 What I’m Working On<br><br>Advanced data analysis and automation projects<br><br>API-driven datasets and reporting pipelines<br><br>Improving data storytelling for business stakeholders<br><br>🤝 Open to Collaboration<br><br>Data analytics and visualization projects<br><br>Automation and reporting tools<br><br>Process improvement initiatives<br><br>📫 Connect<br><br>GitHub: https://github.com/1saugen<br><br>LinkedIn: https://www.linkedin.com/in/saugen-chaudhary/<br><br>⭐ Always learning. Always building. Focused on impact.
 
-<!---
-1saugen/1saugen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Saugen Chaudhary) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Saugen Chaudhary) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Csaugen13@gmail.com) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=1saugen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=1saugen&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=1saugen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=1saugen&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=1saugen&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=1saugen&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
